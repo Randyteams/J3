@@ -1,6 +1,6 @@
 
-import BONDS
-from BONDS import *
+import ARIFISTIFIK
+from ARIFISTIFIK import *
 from akad.ttypes import *
 from multiprocessing import Pool, Process
 from time import sleep
